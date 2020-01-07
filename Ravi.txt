@@ -1,0 +1,5 @@
+This is a text file.
+
+Git is a SCM tool .
+
+Github is a service provider for Git.
